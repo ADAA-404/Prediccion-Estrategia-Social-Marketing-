@@ -23,7 +23,7 @@ python -m venv venv
 source venv/bin/activate  # On macOS/Linux  
 venv\Scripts\activate      # On Windows  
 
-- Instalar las dependencias:  
+- Install dependencies:  
 pip install pandas numpy scikit-learn matplotlib seaborn tabulate
 
 - Download the data (the script uses a dataset available on Kaggle. Download the CSV files and place them in a folder named [data] inside the project's root directory):   
